@@ -1,0 +1,10 @@
+<html>
+
+<script>
+	for(a=2;a>=20;a+=2)
+	{
+		document.write(a+"<br>");
+	
+	}
+</script>
+</html>
